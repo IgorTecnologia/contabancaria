@@ -1,4 +1,4 @@
-# contabancaria
+# Conta bancaria
 *Minha primeira aplicação Java, me senti realizado ao finaliza-lá* 🤖
 
 - Aplicação construida utilizando apenas a linguagem Java.
